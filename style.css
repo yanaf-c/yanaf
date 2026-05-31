@@ -1,0 +1,39 @@
+
+Body
+{
+	margin:100px;
+	font-family: cursive;
+	font-size: 25px;
+	background:url('grid.jpg');
+	background-repeat:no-repeat;
+	background-position: centre;
+	background-size: cover;
+	
+}
+
+
+img
+{
+	border-radius: 800px;
+	width: 500px
+	height: 500px
+}
+
+h1
+{
+	font-size:80px;
+	color: #FFFFFF;
+	background-color: #444444;
+	padding: 10px;
+}
+h2
+{
+	font-size:50px;
+	color: #FFFFFF;
+	background-color: #444444;
+}
+
+a
+{
+	color: green;
+}
